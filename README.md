@@ -39,7 +39,7 @@
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cisojoker&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&refresh=1" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=cisojoker&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cisojoker&theme=dracula&hide_border=false" alt="GitHub Streak Stats">
   <br>
