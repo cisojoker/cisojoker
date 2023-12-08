@@ -9,7 +9,7 @@
   🔭 Currently working on side projects.<br>
   🌱 Learning blockchain and web3 technologies.<br>
   💬 Ask me about React.js, Next.js, Tailwind CSS, and other stuff related to web.<br>
-  📫 Reach me at <a href="mailto:itsvishal1035@gmail.com">itsvishal1035@gmail.com</a>
+  📫 Reach me at <a href="mailto:itsvishal1035@gmail.com">madhurciso01@gmail.com</a>
 </p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
