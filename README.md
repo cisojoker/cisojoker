@@ -10,7 +10,7 @@
   Currently working on side projects.<br>
   🌱 Learning DSA and Competitive Programming.<br>
   💬 Ask me about React.js, Nodejs, bootstrap/Tailwind CSS, and other stuff related to web.<br>
-  📫 Reach  out to me at<a href="mailto:madhurciso01@gmail.com">madhurciso01@gmail.com</a>
+  📫 Reach  out to me at <a href="mailto:madhurciso01@gmail.com">madhurciso01@gmail.com</a>
 </p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
